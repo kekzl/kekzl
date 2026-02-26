@@ -1,8 +1,6 @@
-# Hey, I'm Raphael
+# Hey, I'm Raph
 
-Self-taught developer building AI-powered tools that solve real problems.
-
-Based in Karlsruhe, Germany.
+IT Admin & Developer @ [EIFER](https://www.eifer.kit.edu/) · Self-taught since age 14 · Fachinformatiker (IHK) · Ausbilderschein (IHK) · Karlsruhe, Germany
 
 ## What I build
 
@@ -15,6 +13,8 @@ Based in Karlsruhe, Germany.
 
 ## Stack
 
-Python, TypeScript, Shell — whatever gets the job done.
+`Python` `PostgreSQL` `Docker` `Linux` `JavaScript` `Networking`
 
-Heavy focus on LLMs (Claude, Ollama, local models), infrastructure automation, and developer tooling.
+## Interests
+
+AI/ML & LLMs · Home Automation & IoT · AI Video Generation · Docker & Containers · Stock Market · Skiing · Hardware Tinkering

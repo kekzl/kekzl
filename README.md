@@ -1,6 +1,6 @@
 # Hey, I'm Raph
 
-IT Admin & Developer @ [EIFER](https://www.eifer.kit.edu/) · Self-taught since age 14 · Fachinformatiker (IHK) · Ausbilderschein (IHK) · Karlsruhe, Germany
+Working @ [EIFER - European Institute for Energy Research](https://www.eifer.org) · Self-taught since age 14 · Fachinformatiker (IHK) · Ausbilderschein (IHK) · Karlsruhe, Germany
 
 ## What I build
 

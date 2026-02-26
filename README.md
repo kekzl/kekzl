@@ -18,3 +18,4 @@ IT Admin & Developer @ [EIFER](https://www.eifer.kit.edu/) · Self-taught since 
 ## Interests
 
 AI/ML & LLMs · Home Automation & IoT · AI Video Generation · Docker & Containers · Stock Market · Skiing · Hardware Tinkering
+

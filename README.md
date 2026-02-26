@@ -1,6 +1,8 @@
 # Hey, I'm Raph
 
-Working @ [EIFER - European Institute for Energy Research](https://www.eifer.org) · Self-taught since age 14 · Fachinformatiker (IHK) · Ausbilderschein (IHK) · Karlsruhe, Germany
+Running the IT infrastructure @ [EIFER - European Institute for Energy Research](https://www.eifer.org) and building AI tools on the side.
+
+Self-taught since age 14 · Fachinformatiker & Ausbilderschein (IHK) · Karlsruhe, Germany
 
 ## What I build
 
@@ -12,19 +14,12 @@ Working @ [EIFER - European Institute for Energy Research](https://www.eifer.org
 
 ## Stack
 
-**Infrastructure** · VMware vSphere · NetApp · OpenZFS · Dell PowerEdge · Docker · High Availability Clustering · Backup Solutions
-
-**Microsoft** · Microsoft 365 · Entra ID · Intune · Active Directory · Exchange · SCCM · SharePoint
-
-**Networking** · VLANs · Firewalls · WLAN · Fiber Optics · NFS · Network Security
-
-**Linux & Automation** · Linux · Bash · Ansible · PowerShell · CI/CD · Nginx · Postfix
-
-**Security** · Cybersecurity · Penetration Testing · Vulnerability Analysis
-
-**AI & Dev** · Claude Code · Cline · LLM Pretraining · Small Model Training · AI Automation · Git · DevOps · PostgreSQL · SQL
+`VMware vSphere` `NetApp` `OpenZFS` `Docker` `Linux` `Entra ID` `Microsoft 365` `Ansible` `Claude Code` `LLM Pretraining` `Penetration Testing`
 
 ## Interests
 
-AI/ML & LLMs · Custom Water Cooling · PC Building · Home Automation & IoT · AI Video Generation · IT Automation · Stock Market · Skiing
+Custom Water Cooling · PC Building · Home Automation · AI Video Generation · Stock Market · Skiing
 
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-friedmann-a0617213b/)

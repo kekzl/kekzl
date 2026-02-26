@@ -12,7 +12,17 @@ IT Admin & Developer @ [EIFER](https://www.eifer.kit.edu/) · Self-taught since 
 
 ## Stack
 
-`Claude Code` `Docker` `Linux` `VMware vSphere` `NetApp` `OpenZFS` `PostgreSQL` `Microsoft 365` `Entra ID` `Networking` `IT Security`
+**Infrastructure** · VMware vSphere · NetApp · OpenZFS · Dell PowerEdge · Docker · High Availability Clustering · Backup Solutions
+
+**Microsoft** · Microsoft 365 · Entra ID · Intune · Active Directory · Exchange · SCCM · SharePoint
+
+**Networking** · VLANs · Firewalls · WLAN · Fiber Optics · NFS · Network Security
+
+**Linux & Automation** · Linux · Bash · Ansible · PowerShell · CI/CD · Nginx · Postfix
+
+**Security** · Cybersecurity · Penetration Testing · Vulnerability Analysis
+
+**AI & Dev** · Claude Code · Cline · Anthropic Claude · Git · DevOps · PostgreSQL · SQL
 
 ## Interests
 

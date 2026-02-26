@@ -22,7 +22,7 @@ IT Admin & Developer @ [EIFER](https://www.eifer.kit.edu/) · Self-taught since 
 
 **Security** · Cybersecurity · Penetration Testing · Vulnerability Analysis
 
-**AI & Dev** · Claude Code · Cline · Anthropic Claude · Git · DevOps · PostgreSQL · SQL
+**AI & Dev** · Claude Code · Cline · LLM Pretraining · Small Model Training · AI Automation · Git · DevOps · PostgreSQL · SQL
 
 ## Interests
 

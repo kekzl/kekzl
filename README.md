@@ -1,6 +1,6 @@
 # Hey, I'm Raph
 
-I run the IT infrastructure @ [EIFER — European Institute for Energy Research](https://www.eifer.org) and build AI tools on the side — from CUDA inference engines to LLM pipelines.
+I run the IT infrastructure @ [EIFER — European Institute for Energy Research](https://www.eifer.org) and build AI tools on the side.
 
 ## 🔥 What I'm building right now — imp
 

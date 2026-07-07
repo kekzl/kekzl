@@ -18,19 +18,19 @@ The fastest single-GPU backend on the 5090 — and every line of its ~97k is wri
 - 🚀 **NVFP4 30B-class MoE decode:** **~257–338 tok/s** — uncontested on `sm_120` (vLLM's NVFP4 path needs `tcgen05`, absent on consumer Blackwell)
 - 🎯 **NVFP4 long-context prefill:** at-or-ahead of vLLM (MoE pp4096 +4%, pp2048 +27%, TTFT wins everywhere)
 
-Every number is measured, dated and commit-anchored → **[github.com/kekzl/imp](https://github.com/kekzl/imp)**
+Every number measured, dated and commit-anchored → **[github.com/kekzl/imp](https://github.com/kekzl/imp)**
 
 ## Other things I build
 
 - **[PromptMill](https://github.com/kekzl/PromptMill)** — AI prompt generator for video & image models (Wan2.1, FLUX, SD, Midjourney). Local LLMs with GPU auto-detection.
+- **[entra-id-secrets-notification](https://github.com/kekzl/entra-id-secrets-notification)** — Monitor Entra ID secrets & certificates for expiration. Alerts via Teams, Slack, Email.
 - **[mailcow-ai-filter](https://github.com/kekzl/mailcow-ai-filter)** — AI-powered email sorting for MailCow. Auto-generates Sieve filters using Claude or local LLMs.
-- **[seedling](https://github.com/kekzl/seedling)** — Synthetic instruction dataset generator for SFT. Generate and curate training data with Ollama.
-- **[entra-id-secrets-notification](https://github.com/kekzl/entra-id-secrets-notification)** — Monitor Azure AD secrets & certificates for expiration. Alerts via Teams, Slack, Email.
-- **[mcp-docker-examples](https://github.com/kekzl/mcp-docker-examples)** — On-demand MCP servers using Docker Compose profiles.
 
 ## Stack
 
-`CUDA` `C++20` `VMware vSphere` `NetApp` `OpenZFS` `Docker` `Linux` `Entra ID` `Microsoft 365` `Ansible` `Claude Code` `LLM Inference` `LLM Pretraining` `Penetration Testing`
+**Infrastructure** · `VMware vSphere` `NetApp` `OpenZFS` `Linux` `Docker` `Ansible` `Entra ID` `Microsoft 365`
+
+**AI / ML** · `CUDA` `C++20` `LLM Inference` `LLM Pretraining` `Claude Code`
 
 ## Interests
 

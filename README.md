@@ -1,8 +1,6 @@
 # Hey, I'm Raph
 
-Running the IT infrastructure @ [EIFER - European Institute for Energy Research](https://www.eifer.org) and building AI tools on the side.
-
-Self-taught since age 14 · Fachinformatiker & Ausbilderschein (IHK) · Karlsruhe, Germany
+I run the IT infrastructure @ [EIFER — European Institute for Energy Research](https://www.eifer.org) and build AI tools on the side — from CUDA inference engines to LLM pipelines.
 
 ## 🔥 What I'm building right now — imp
 

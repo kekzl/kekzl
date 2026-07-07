@@ -8,7 +8,6 @@ I run the IT infrastructure @ [EIFER — European Institute for Energy Research]
 [![Stars](https://img.shields.io/github/stars/kekzl/imp?style=flat&color=yellow)](https://github.com/kekzl/imp/stargazers)
 ![CUDA](https://img.shields.io/badge/CUDA-13.3-76b900?style=flat&logo=nvidia)
 ![C++20](https://img.shields.io/badge/C%2B%2B-20-00599C?style=flat&logo=cplusplus)
-![Status](https://img.shields.io/badge/status-experimental-orange?style=flat)
 
 A **from-scratch C++/CUDA inference engine** that targets exactly one architecture: the NVIDIA RTX 5090 / RTX PRO 6000 (`sm_120a`). No portability layer, no wrapper around llama.cpp or vLLM — its own GGUF & SafeTensors loaders, BPE tokenizer, paged KV cache, attention/MoE kernels, Gated DeltaNet + Mamba2 scans, CUDA Graphs, and an OpenAI/Anthropic-compatible server built for **agentic AI**: tool calling, `json_schema` constrained decoding, separable reasoning channels and concurrent sub-agent fan-out.
 

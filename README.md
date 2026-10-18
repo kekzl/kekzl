@@ -1,6 +1,6 @@
 # Hey, I'm Raph
 
-I run the IT infrastructure @ [EIFER - European Institute for Energy Research](https://www.eifer.org) and build AI tools on the side.
+I build AI tools and many more.
 
 ## 🔥 What I'm building right now: imp
 
